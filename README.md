@@ -19,6 +19,12 @@
 右下角出口在拾取5个钥匙后自动打开，从那里逃出去就算赢
 （详情可以查看游戏内提示）
 
+## 游戏截图
+
+![主菜单](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/1.png)
+![地图预览](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/1.png)
+![胜利](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/1.png)
+
 ## 一些不足
 
 - GDI+渲染效率不高，可能会出现渲染延迟，撕裂，可以尝试建立配置文件锁60帧
