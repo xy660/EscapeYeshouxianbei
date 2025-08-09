@@ -22,8 +22,8 @@
 ## 游戏截图
 
 ![主菜单](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/1.png)
-![地图预览](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/1.png)
-![胜利](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/1.png)
+![地图预览](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/2.png)
+![胜利](https://raw.githubusercontent.com/xy660/EscapeYeshouxianbei/main/imgs/3.png)
 
 ## 一些不足
 
